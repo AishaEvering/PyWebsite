@@ -1,0 +1,6 @@
+bin/
+include/
+lib/
+database.txt
+pyvenv.cfg
+__pycache__
